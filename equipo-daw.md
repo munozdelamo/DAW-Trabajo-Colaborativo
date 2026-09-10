@@ -1,5 +1,11 @@
 # Equipo DAW
-## Jorge Campos Nieto
+
+## Jesús Muñoz
+
+-Perfil: Desarrolador Web
+-Lenguaje favorito: Python
+-Herramienta favorita: Visual Studio Code
+## Joel Frutos
 - Perfil: Desarrollador Web
-- Lenguaje favorito: Java
+- Lenguaje favorito: JavaScript
 - Herramienta favorita: Visual Studio Code
