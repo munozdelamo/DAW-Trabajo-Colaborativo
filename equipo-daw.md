@@ -9,3 +9,8 @@
 - Perfil: Desarrollador Web
 - Lenguaje favorito: JavaScript
 - Herramienta favorita: Visual Studio Code
+
+## Alejandro Yepes
+- Perfil: Desarrollador Web
+- Lenguaje favorito: JavaScript
+- Herramienta favorita: Visual Studio Code
