@@ -1,6 +1,6 @@
 # Equipo DAW
 
-## Ángel Muñoz
+## Ivan Recio
 - Perfil: Desarrollador Web
 - Lenguaje favorito: JavaScript
 - Herramienta favorita: Visual Studio Code
