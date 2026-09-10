@@ -28,3 +28,7 @@
  - Perfil: Técnico en DAM.
  - Lenguaje favorito: Kotlin.
  - Herramienta favorita: Docker.
+- ## Jorge Campos Nieto
+- Perfil: Desarrollador Web
+- Lenguaje favorito: Java
+- Herramienta favorita: Visual Studio Code
