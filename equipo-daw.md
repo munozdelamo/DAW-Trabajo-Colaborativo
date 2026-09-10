@@ -22,4 +22,9 @@
 ## Joel Frutos
 - Perfil: Desarrollador Web
 - Lenguaje favorito: JavaScript
-- Herramienta favorita: Visual Studio Code
+- Herramienta favorita: Visual Studio Code 
+## Antonio Sobrino Martín
+
+ - Perfil: Técnico en DAM.
+ - Lenguaje favorito: Kotlin.
+ - Herramienta favorita: Docker.
