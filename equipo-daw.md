@@ -1,5 +1,5 @@
 # Equipo DAW
-## Joel Frutos
+## Pedro Moral
 - Perfil: Desarrollador Web
-- Lenguaje favorito: JavaScript
+- Lenguaje favorito: Java
 - Herramienta favorita: Visual Studio Code
