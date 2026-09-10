@@ -42,3 +42,8 @@
 - Perfil: Desarrollador Web
 - Lenguaje favorito: Java
 - Herramienta favorita: Visual Studio Code
+
+## Alejandro Corredor
+- Perfil: Desarrollador Web
+- Lenguaje favorito: Java
+- Herramienta favorita: Visual Studio Code
